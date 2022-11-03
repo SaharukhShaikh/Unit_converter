@@ -1,11 +1,25 @@
 h1 {
     text-align: center;
+    margin-top: 18%;
 }
+
 div#container {
     text-align: center;
     display: flex;
     justify-content: center;
+    background-color: cadetblue;
+    border-radius: 9px;
+    padding: 1%;
+    font-size: 2vw;
 }
+
+
 input#feet {
     text-align: center;
+    border-radius: 5px;
+}
+
+input#inch {
+    text-align: center;
+    border-radius: 5px;
 }
